@@ -126,6 +126,8 @@
 #define BCM43013_D11N2G_ID	0x4499		/* 43013 802.11n 2.4G device */
 #define BCM43013_D11N5G_ID	0x449a		/* 43013 802.11n 5G device */
 
+#define BCM43455_D11AC_V2_ID  0xa9bf		/* AMPAK AP6255 */
+
 /* PCI Subsystem ID */
 #define BCM4376_D11AX_ID	0x4445		/* 4376 802.11ax dualband device */
 #define BCM4376_D11AX2G_ID	0x4436		/* 4376 802.11ax 2.4G device */
